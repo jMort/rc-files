@@ -1,0 +1,12 @@
+syntax on
+colorscheme mytheme
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set smarttab
+set expandtab
+set cindent
+set number
+set t_Co=256
+set keymap=dvorak
